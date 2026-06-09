@@ -4,14 +4,13 @@
 
 ## About me
 
-- **Pronouns:**
-- **Location / Time zone:**
-- **Background:** one-sentence summary (e.g. "Rising junior CS at NCSU, focused on backend systems and ML.")
-- **What I want to learn this internship:** 1–2 concrete goals
+- **Pronouns:*She*
+- **Background:** "Master of Management graduate with experience in education, event coordination, and communication, eager to contribute to marketing and business development initiatives while continuously learning and growing professionally")
+- **What I want to learn this internship:** I want to gain hands-on experience in marketing and business development, improve my professional skills, and learn how to contribute effectively in a real work environment.
 
 ## My internship
 
-- **Start date:**
+- **Start date:*June 1, 2026*
 - **End date:**
 - **Hours / week:**
 - **Project:** short name + one-sentence summary
@@ -26,8 +25,8 @@
 
 ## How to reach me
 
-- **Slack:** @your-handle
-- **Email:** ivy.jamero@msg2ai.xyz
+- **Slack:** ivy@msg2ai.xyz
+- **Email:** ivy@msg2ai.xyz
 - **Best hours:** e.g. "9am–5pm ET, Mon–Fri"
 
 ## Status
