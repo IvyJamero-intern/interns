@@ -1,6 +1,6 @@
-# IvyJ
+# ivy
 
-> This is IvyJ's personal working folder: profile, weekly progress reports, and work products live here.
+> This is ivy's personal working folder: profile, weekly progress reports, and work products live here.
 
 ## About me
 
