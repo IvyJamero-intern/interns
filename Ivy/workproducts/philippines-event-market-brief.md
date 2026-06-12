@@ -2,6 +2,8 @@
 
 ## What is the market?
 
+<div style="text-align: justify">
+
 The **Philippines MICE (Meetings, Incentives, Conferences, Exhibitions)** market is one of Southeast Asia's fastest-growing events sectors. It spans:
 
 - **Trade shows & expos** — WORLDBEX, WOFEX, PHILCONSTRUCT, MAFBEX, Franchise Asia
@@ -16,6 +18,8 @@ The **Philippines MICE (Meetings, Incentives, Conferences, Exhibitions)** market
 | **Cebu** | Strongest regional MICE hub | Waterfront Cebu City Hotel, IEC Convention Center (IC3), SMX Seaside *(opening Nov 2026)* |
 | **Davao** | Mindanao's events gateway | SMX Davao, Davao Convention Center, Davcon Maa *(new)* |
 | **Clark/Pampanga** | Emerging alternative venue cluster | SMX Clark, Clark Int'l Convention Center *(planned)*, Widus Hotel, Royce Hotel |
+
+</div>
 
 ## Why is it growing?
 
