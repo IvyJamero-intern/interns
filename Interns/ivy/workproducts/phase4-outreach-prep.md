@@ -2,8 +2,9 @@
 
 **Product:** msg2ai Events Assistant  
 **From address:** ivy@msg2ai.xyz  
-**Target:** 72 event-industry accounts (83 contacts) across PH  
-**Generated:** 2026-06-14
+**Target:** 72 event-industry accounts (83 contacts) across PH + 24 global event-tech accounts  
+**Generated:** 2026-06-14  
+**Updated:** 2026-06-16
 
 ---
 
@@ -56,6 +57,17 @@ Same cadence (Days 1, 7, 14). Different hooks: multi-day conferences, delegate m
 *Examples: AvePoint, Hacking HR, PMAP, Partnership Leaders, IBPAP, EAB, Finsight*
 
 Same cadence. Different hooks: internal events, town halls, summit logistics, registration.
+
+### Segment D — Global Event-Tech / Partnership Outreach (NEW — 2026-06-16)
+*Examples: Cvent, Bizzabo, Eventbase, Skift Meetings, Event Industry News, AI Expo, Ai4*
+
+Different product angle: pitch **AI-Ambassador** (AI networking/scheduling agent) and **ActionNotes** (AI session note-taker) as integration partners, not direct customers. Same 3-touch cadence but with partnership hooks.
+
+| Touch | Day | Channel |
+|-------|-----|---------|
+| Email 1 | 1 | Initial — partnership/intro |
+| Email 2 | 7 | Case study / mutual benefit |
+| Email 3 | 14 | Breakup |
 
 ### Contact Selection by Segment
 
@@ -145,9 +157,30 @@ Same cadence. Different hooks: internal events, town halls, summit logistics, re
 **Unassigned (branding/PR/ad agencies — use Segment C template if targeting):**
 NuWorks, Paint it Red, Steady Rise, Stratworks, TA-FBDI, Team One, TNC, RedTorch, KreativDen, Bull.ish, Clutch, Ideascape, Grupo Agatep, GeengerGrp, Bridges PR — these are PR/ad firms. Use Segment C hooks (internal events, client events) if needed.
 
+**Segment D — Global Event-Tech / Partnerships (24 contacts, Batch 6–7)**
+
+| Company | Contact | Title | Email | Verified | Score | Batch |
+|---------|---------|-------|-------|----------|-------|-------|
+| Skift Meetings | Miguel Neves | Editor-in-Chief | mn@skift.com | ✅ safe | 95 | 6 |
+| Skift Meetings | Barbara Scofidio | Editor | bsc@skift.com | ✅ safe | 95 | 6 |
+| Skift Meetings | Andrea Doyle | Senior Editor | amd@skift.com | ✅ safe | 95 | 6 |
+| Event Industry News | Kizzy Allott | Publisher | kizzy@eventindustrynews.com | ✅ safe | 100 | 6 |
+| Event Industry News | Sam Hyland | Content Administrator | sam@eventindustrynews.com | ✅ safe | 100 | 6 |
+| Event Industry News | — | Features Desk | features@eventindustrynews.com | ✅ safe | 100 | 6 |
+| Event Industry News | Tegan Double | Adv. Campaign Consultant | tegan@eventindustrynews.com | ✅ safe | 100 | 7 |
+| Event Tech Live / AMP Events | Paul Allott | Event Director | paul@ampevents.co.uk | ⚠️ catch-all | 75 | 7 |
+| Cvent | Erica Stoltenberg | Media Contact | estoltenberg@cvent.com | ⚠️ unknown | 55 | 6 |
+| Bizzabo | Eran Ben-Shushan | Co-Founder & CEO | eran@bizzabo.com | ✅ safe | 95 | 6 |
+| Eventbase | Jeff Sinclair | CEO | jeff@eventbase.com | ✅ safe | 100 | 6 |
+| Eventbase | Ben West | CIO | ben@eventbase.com | ✅ safe | 100 | 7 |
+| AI Expo 2026 (Houston) | — | Organizer | Via aiexpo.us/contact | N/A | — | 7 |
+| Ai4 2026 (Las Vegas) | Delaney Miller | Marketing Associate | Via ai4.io | N/A | — | 7 |
+
 ---
 
 ## 3. 3-Touch Email Templates
+
+*Segments A–C: ivy@msg2ai.xyz | Segment D: bart@msg2ai.xyz*
 
 ### Segment A: Venues & Hotels
 
@@ -316,6 +349,79 @@ NuWorks, Paint it Red, Steady Rise, Stratworks, TA-FBDI, Team One, TNC, RedTorch
 
 ---
 
+### Segment D: Global Event-Tech / Partnership Outreach
+
+**Product angle:** AI-Ambassador (AI networking agent) + ActionNotes (AI session note-taker)  
+**Sender:** bart@msg2ai.xyz (partnerships/product demos)
+
+**Email 1 — Initial — Media/Editorial Pitch (Day 1)**
+
+> **Subject:** AI is rewriting event networking — a story for {{publication}}
+>
+> Hi {{first_name}},
+>
+> I've been following your coverage of AI in the events space. The industry is waking up to AI's potential — from CventIQ to Bizzy to Event Copilot — but most coverage focuses on the tools, not the shift in attendee expectations.
+>
+> I'm Bart Cant, founder of msg2ai.xyz. We've built two AI tools driving real engagement in pilot events:
+> - **AI-Ambassador** — an AI networking/scheduling agent that matches attendees by intent and proactively books meetings
+> - **ActionNotes** — AI session note-taking that auto-generates action items and CRM-ready summaries
+>
+> I'd love to offer you an exclusive look — a demo or a bylined piece on how AI is reshaping the attendee journey beyond chatbots.
+>
+> Would you have 15 minutes for a quick call?
+>
+> Best,
+> Bart Cant
+> Founder, msg2ai.xyz
+
+**Email 1 — Initial — Partnership/Integration Pitch (Day 1)**
+
+> **Subject:** Extending {{product}} with proactive AI networking
+>
+> Hi {{first_name}},
+>
+> I'm reaching out because {{company}} is doing impressive work in the event-tech space. I'm Bart Cant, founder of msg2ai.xyz.
+>
+> We've built **AI-Ambassador** (proactive AI meeting-scheduling agent) and **ActionNotes** (AI session capture with auto-generated action items). Both are designed to sit alongside existing event platforms and extend their capabilities.
+>
+> I see a natural integration opportunity — our tools could complement your platform's AI features and create a stronger combined offering for event organizers.
+>
+> Would you be open to a 15-minute intro call?
+>
+> Best,
+> Bart Cant
+> Founder, msg2ai.xyz
+
+**Email 2 — Value / Case Study (Day 7)**
+
+> **Subject:** {{company}} — how one conference boosted engagement 3x
+>
+> Hi {{first_name}},
+>
+> A mid-size conference using AI-Ambassador saw attendee meeting bookings increase 3x versus their previous manual networking approach. ActionNotes captured 95% of sessions with actionable outputs.
+>
+> Happy to share the full case study and usage data.
+>
+> Best,
+> Bart Cant
+> Founder, msg2ai.xyz
+
+**Email 3 — Breakup (Day 14)**
+
+> **Subject:** Re: {{company}}
+>
+> Hi {{first_name}},
+>
+> I know you're focused on {{company}}'s roadmap. If AI-powered event networking or session intelligence ever becomes a priority, msg2ai would make a strong integration partner.
+>
+> Happy to reconnect whenever the timing is right.
+>
+> Best,
+> Bart Cant
+> Founder, msg2ai.xyz
+
+---
+
 ## 4. Filipino Subject-Line Options
 
 For contacts where a Taglish approach fits:
@@ -379,6 +485,8 @@ If unavailable, offer a 5-min live screenshare as alternative.
 | 8 | Batch 3 | 15 MICE/PCO |
 | 9 | Batch 4 | 14 corporate + 1 MICE leftover |
 | 10 | Batch 5 | PR/Agency contacts (optional) |
+| 11 | Batch 6 | Event-Tech Media & CEOs (14 contacts — Segment D) |
+| 12 | Batch 7 | Remaining Event-Tech contacts (10 contacts — Segment D) |
 
 **Batch 1 — Day 6 (15 Venues/Hotels):**
 1. Melissa Ferrer — New World Makati Hotel
@@ -451,6 +559,34 @@ If unavailable, offer a 5-min live screenshare as alternative.
 **Batch 5 — Day 10 (PR/Agencies, optional):**
 61–83: Remaining PR/marketing/advertising contacts
 
+**Batch 6 — Day 11 (14 Event-Tech Media & CEOs):**
+1. Miguel Neves — Skift Meetings (editorial)
+2. Barbara Scofidio — Skift Meetings (editorial)
+3. Andrea Doyle — Skift Meetings (editorial)
+4. Kizzy Allott — Event Industry News (publisher)
+5. Sam Hyland — Event Industry News (content)
+6. Features Desk — Event Industry News (articles)
+7. Erica Stoltenberg — Cvent (media/partnerships)
+8. Eran Ben-Shushan — Bizzabo (CEO — integration)
+9. Jeff Sinclair — Eventbase (CEO — partnership)
+10. Miguel Neves — Skift Meetings (follow-up)
+11. Kizzy Allott — Event Industry News (pitch)
+12. Features Desk — Event Industry News (guest article)
+13. Paul Allott — Event Tech Live (speaking)
+14. Erica Stoltenberg — Cvent (partnership follow-up)
+
+**Batch 7 — Day 12 (10 Remaining Event-Tech):**
+15. Tegan Double — Event Industry News (advertising)
+16. Ben West — Eventbase (CIO — technical)
+17. Paul Allott — Event Tech Live (follow-up)
+18. AI Expo 2026 Organizer — Houston speaking
+19. Ai4 2026 Organizer — Las Vegas speaking
+20. Elouise Mugridge — Event Industry News (sales)
+21. Beth Hancock — Event Industry News (sales)
+22. AI Expo 2026 — Exhibitor follow-up
+23. Ai4 2026 — Exhibitor follow-up
+24. Tegan Double — Event Industry News (follow-up)
+
 ---
 
 ## 7. Quick-Start Checklist
@@ -465,3 +601,6 @@ If unavailable, offer a 5-min live screenshare as alternative.
 - [ ] Move sent contacts to "Contacted"
 - [ ] Day 7 → Email 2 to non-replied
 - [ ] Day 14 → Email 3 (breakup) to non-replied
+- [ ] Day 11 → Send Batch 6 (14 Event-Tech contacts — Segment D templates)
+- [ ] Day 12 → Send Batch 7 (10 remaining Event-Tech contacts)
+- [ ] Use Segment D templates for event-tech; Segment A templates for venues
